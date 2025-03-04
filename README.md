@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Audit Service Logo](https://via.placeholder.com/150x150?text=AuditService)
-
 [![Build Status](https://img.shields.io/github/workflow/status/org/audit-service/main)](https://github.com/org/audit-service/actions)
 [![Code Coverage](https://img.shields.io/codecov/c/github/org/audit-service/main)](https://codecov.io/gh/org/audit-service)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
